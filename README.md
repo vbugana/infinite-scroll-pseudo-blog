@@ -1,4 +1,4 @@
-# infinite-scroll-pseudo-blog
+# Infinite Scroll Pseudo Blog
 Display blog posts from [jsonplaceholder](https://jsonplaceholder.typicode.com) and add infinite scroll to fetch posts and also add filter box
 
 ## Description 
